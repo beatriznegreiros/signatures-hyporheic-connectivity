@@ -1,0 +1,14 @@
+sample,delta_h,date,lat_slurp,vhg,flow_dir
+A-3,-1,25.07.2022,63,-0.02,downwelling
+B-3,5,25.07.2022,48,0.1,upwelling
+B-4,4.5,25.07.2022,51,0.09,upwelling
+C-3,-4,25.07.2022,56,-0.07,downwelling
+C-4,-2,25.07.2022,59,-0.03,downwelling
+D-3,5,13.07.2022,62,0.08,upwelling
+D-4,1,13.07.2022,48,0.02,upwelling
+E-3,5,13.07.2022,25,0.2,upwelling
+E-4,4,13.07.2022,42,0.1,upwelling
+G-3,0,14.07.2022,46,0,stagnant
+G-4,0,14.07.2022,45,0,stagnant
+H-3,1,14.07.2022,48,0.02,upwelling
+H-4,1,14.07.2022,57,0.02,upwelling
